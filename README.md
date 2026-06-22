@@ -1,1 +1,3 @@
-Survival rules
+#Survival rules
+
+## Fisrt of do git init
